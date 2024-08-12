@@ -1,0 +1,14 @@
+id,created_at,customer,date,time,mode,total,payment_method,status
+2,2024-08-08 05:03:46+00,Lupita Alvarez,01/01/2022,13:51:00,Delivery,260,Transfer,2
+3,2024-08-08 05:03:46+00,Marco Antonio,01/01/2022,13:47:00,Pick Up,6556,Cash,1
+4,2024-08-08 05:03:46+00,Reyna Esquivel,01/01/2022,13:38:00,Pick Up,210,Banking Card,1
+5,2024-08-08 05:03:46+00,Jose Matias,01/01/2022,13:15:00,Delivery,392,Stripe,1
+6,2024-08-08 05:03:46+00,Ricardo Ponce,01/01/2022,11:39:00,Pick Up,340,Get 1 FREE,2
+7,2024-08-08 05:03:46+00,Esteban Aguilar,01/01/2022,10:00:00,Delivery,392,Stripe,2
+8,2024-08-08 05:03:46+00,Alicia Vega,01/01/2022,14:55:00,Pick Up,330,Transfer,1
+9,2024-08-08 05:03:46+00,Lupita Alvarez,01/01/2022,13:51:00,Delivery,260,Cash,1
+10,2024-08-08 05:03:46+00,Marco Antonio,01/01/2022,13:47:00,Pick Up,6556,Banking Card,1
+11,2024-08-08 05:03:46+00,Reyna Esquivel,01/01/2022,13:38:00,Pick Up,210,Stripe,1
+12,2024-08-08 05:03:46+00,Jose Matias,01/01/2022,13:15:00,Delivery,392,Get 1 FREE,2
+13,2024-08-08 05:03:46+00,Ricardo Ponce,01/01/2022,11:39:00,Pick Up,340,Transfer,2
+14,2024-08-08 05:03:46+00,Esteban Aguilar,01/01/2022,10:00:00,Delivery,392,Transfer,1
